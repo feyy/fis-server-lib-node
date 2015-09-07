@@ -8,9 +8,14 @@ replace fis-command-server/lib/node for transpond function
 
 * mac下默认路径：/usr/local/lib/node_modules/fis3/node_modules/fis-command-server/lib/node
 
+* 拷贝后需要重新清理本地测试服务器空间,再重新启动（其实就是把server.tar重新解压到测试服务器空间）
+		
+		fis3 server clean
+		fis3 server start
+
 * 需要再node server下运行，如果默认启动的不是fis3的node server 则需要如下命令
 
-		fis server start --type node
+		fis3 server start --type node
 
 * 转发规则依赖于transpond-config.js文件，项目下有样例
 

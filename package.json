@@ -1,11 +1,13 @@
 {
   "name": "fis-command-server-script",
-  "description": "This is an simple fis server script.",
-  "version": "0.0.0",
-  "author": "FIS Team <fis@baidu.com>",
-  "homepage": "http://fis.baidu.com/",
+  "description": "replace fis-command-server/lib/node for transpond function.",
+  "version": "0.1.1",
+  "author": "xgfe",
+  "homepage": "https://github.com/xgfe/fis-server-lib-node",
   "keywords": [
-    "fis"
+    "fis",
+    "server",
+    "transpond"
   ],
   "main": "server.js",
   "dependencies": {

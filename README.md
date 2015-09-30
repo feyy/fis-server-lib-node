@@ -19,6 +19,8 @@ replace fis-command-server/lib/node for transpond function
 
 * 转发规则依赖于transpond-config.js文件，项目下有样例
 
+* 转发日志文件存储在fis3 server 根目录下的server.log中
+
 ##开发说明
 * git clone
 * npm install

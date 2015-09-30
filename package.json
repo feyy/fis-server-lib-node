@@ -1,5 +1,5 @@
 {
-  "name": "fis-command-server-script",
+  "name": "fis-server-lib-node",
   "description": "replace fis-command-server/lib/node for transpond function.",
   "version": "0.1.1",
   "author": "xgfe",

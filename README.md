@@ -8,6 +8,8 @@ replace fis-command-server/lib/node for transpond function
 
 * mac下默认路径：/usr/local/lib/node_modules/fis3/node_modules/fis-command-server/lib/node
 
+* mac下使用nvm的路径：/usr/local/Cellar/nvm/{nvm version}/versions/node/{node version}/lib/node_modules/fis3/node_modules/fis-command-server/lib/node
+
 * 拷贝后需要重新清理本地测试服务器空间,再重新启动（其实就是把server.tar重新解压到测试服务器空间）
 		
 		fis3 server clean

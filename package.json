@@ -1,7 +1,7 @@
 {
   "name": "fis-server-lib-node",
   "description": "replace fis-command-server/lib/node for transpond function.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "xgfe",
   "homepage": "https://github.com/xgfe/fis-server-lib-node",
   "keywords": [

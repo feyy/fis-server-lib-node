@@ -13,5 +13,6 @@ exports.TranspondRules = {
        //     "path": "/"
        // }
     },  
-    "ajaxOnly": false
+    "ajaxOnly": false,  // 是否只转发application/json请求
+    "hackHeaders": false  // 是否修改headers中的host,referer
 };

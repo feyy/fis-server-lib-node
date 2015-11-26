@@ -1,4 +1,7 @@
 # fis-server-lib-node
+
+**适用于fis3 3.2.x及以下版本**，3.3.0及以后版本参考[fis3-server-node](https://github.com/xgfe/fis3-server-node)。
+
 replace fis-command-server/lib/node for transpond function
 ##[fis-command-server](https://github.com/fex-team/fis-command-server)
 修改自[fis-command-server](https://github.com/fex-team/fis-command-server)的2015年8月12日提交（d6443d1cedda1d34579838ac435dba056c54c68e）的lib/node
